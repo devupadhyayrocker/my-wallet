@@ -305,8 +305,10 @@
     }
 
     .head_btc {
-        margin: 0;
-        margin-top: 10px;
+        margin: 10px 0 0;
+        font-size: 13px;
+        color: #4C5968;
+        font-weight: 500;
     }
 
     .footer {
